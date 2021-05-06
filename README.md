@@ -15,6 +15,9 @@ Toggle Sounds \
 Teleport \
 and many features in this software!
 
+## Download:
+You can download the software [here](https://github.com/Spache0/SunCheats/releases).
+
 ## Cheat Menu:
 <img src="https://cdn.discordapp.com/attachments/774675489310507032/774675549661429820/unknown.png" />
 <img src="https://cdn.discordapp.com/attachments/774675489310507032/774675572978483200/unknown.png" />
