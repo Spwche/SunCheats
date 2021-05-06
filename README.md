@@ -1,6 +1,6 @@
 ## SunCheats Client 
 
-Suncheats is a free hacked client using on Rise Client and SonOyuncu Client. With our software, you will be unfair advantage to other players.
+Suncheats is a free hacked client using on RiseClient and SonOyuncu Client. With our software, you will be unfair advantage to other players.
 
 ## Features in the Software:
 Left & Right Clicker \
