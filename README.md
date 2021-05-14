@@ -30,20 +30,19 @@ If you notice any bugs or missing features, you can let us know by opening an is
 ## Copyright
 ©️ Spache | All rights reserved.
 
-I'm (Spache) the copyright owner. Currently I don't have authorized representative, so I manage the Copyright infringement with only myself.
-
-*Actions that you are not allowed to do:*
+*Actions that you are not allowed to do without our permission:*
 
 - Use
 - Share
 - Modify 
 
-**Creating videos, modifying this software, and publish to YouTube or other video sites is not allowed with the SunCheats Client. You may get copyright infringement claim and similar legal consequences.**
+**Creating videos, modifying this software, and publish to YouTube or other video sites is not allowed without our permission with the Rylina Client. You may get copyright infringement claim or legal consequences.**\
+**Contact us to get permission for use: spache0@protonmail.com**
 
 ## Contact
 You can find my official social media accounts below.
 
-[Youtube](https://www.youtube.com/spache02336) |
+[Youtube](https://www.youtube.com/spache00) |
 [Twitter](https://twitter.com/Spache0/) |
 [GitHub](https://github.com/Spache0) 
 
