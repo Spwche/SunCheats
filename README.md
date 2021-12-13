@@ -1,6 +1,6 @@
 ## SunCheats Client 
 
-Suncheats is a free hacked client for Minecraft. With our software, you will be unfair advantage to other players.
+Suncheats is a open-source free hacked client for Minecraft.
 
 ## Features in the Software:
 Left & Right Clicker \
@@ -26,17 +26,3 @@ You can download the software [here](https://github.com/Spache0/SunCheats/releas
 
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/Spache0/SunCheats/issues).
-
-## Copyright
-©️ Spache | All rights reserved.
-
-## Contact
-You can find my official social media accounts below.
-
-[Youtube](https://www.youtube.com/spache00) |
-[Twitter](https://twitter.com/Spache0/) |
-[GitHub](https://github.com/Spache0) |
-[Discord](https://discord.com/users/417292277413707778) 
-
-## Contributing
-I appreciate your contribution. So if you want to support me, you can follow my social media accounts :)^^
